@@ -2,6 +2,8 @@
 
 A full-featured **E-Commerce web application** built using the **MERN Stack** – MongoDB, Express, React, and Node.js.
 
+---
+
 ## 🚀 Features
 
 - User Authentication (JWT)
@@ -12,6 +14,8 @@ A full-featured **E-Commerce web application** built using the **MERN Stack** �
 - MongoDB Database Integration
 - Responsive Design with React
 - API Routes with Express.js
+
+---
 
 ## 🧱 Tech Stack
 
@@ -25,4 +29,28 @@ A full-featured **E-Commerce web application** built using the **MERN Stack** �
 ---
 
 ## 📁 Folder Structure
+
+<pre>
+mern-ecommerce/
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── config/
+│   ├── middleware/
+│   ├── app.js
+│   └── .env
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── redux/
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+├── README.md
+└── .gitignore
+</pre>
+
 
