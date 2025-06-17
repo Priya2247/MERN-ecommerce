@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": "2499",
+    "description": "Over-ear wireless headphones with noise cancellation and 30-hour battery life.",
+    "ratings": "4.5",
+    "images": [
+      { "image": "https://example.com/images/headphones1.jpg" },
+      { "image": "https://example.com/images/headphones2.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "SoundTech",
+    "stock": "45",
+    "numberOfReviews": "320",
+    "createdAt": "2025-06-01T10:00:00.000Z"
+  },
+  {
+    "name": "Smart Fitness Band",
+    "price": "1599",
+    "description": "Waterproof smart band with heart rate, sleep monitor and step counter.",
+    "ratings": "4.2",
+    "images": [
+      { "image": "https://example.com/images/fitnessband1.jpg" }
+    ],
+    "category": "Wearables",
+    "seller": "FitPlus",
+    "stock": "78",
+    "numberOfReviews": "210",
+    "createdAt": "2025-05-25T09:30:00.000Z"
+  },
+  {
+    "name": "Men's Running Shoes",
+    "price": "3299",
+    "description": "Lightweight and breathable shoes for daily running and training.",
+    "ratings": "4.6",
+    "images": [
+      { "image": "https://example.com/images/shoes1.jpg" },
+      { "image": "https://example.com/images/shoes2.jpg" }
+    ],
+    "category": "Footwear",
+    "seller": "RunX",
+    "stock": "60",
+    "numberOfReviews": "150",
+    "createdAt": "2025-06-10T12:00:00.000Z"
+  },
+  {
+    "name": "Ceramic Dinner Set - 16 Pieces",
+    "price": "2199",
+    "description": "Elegant ceramic dinner set for 4 people, microwave safe.",
+    "ratings": "4.3",
+    "images": [
+      { "image": "https://example.com/images/dinnerset1.jpg" }
+    ],
+    "category": "Home & Kitchen",
+    "seller": "ClayCraft",
+    "stock": "30",
+    "numberOfReviews": "89",
+    "createdAt": "2025-06-05T14:45:00.000Z"
+  },
+  {
+    "name": "Organic Green Tea - 250g",
+    "price": "499",
+    "description": "Premium organic green tea leaves packed with antioxidants.",
+    "ratings": "4.7",
+    "images": [
+      { "image": "https://example.com/images/greentea1.jpg" }
+    ],
+    "category": "Grocery",
+    "seller": "Nature's Basket",
+    "stock": "150",
+    "numberOfReviews": "432",
+    "createdAt": "2025-06-15T08:20:00.000Z"
+  }
+]
